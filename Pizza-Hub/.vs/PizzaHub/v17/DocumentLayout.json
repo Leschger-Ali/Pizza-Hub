@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|PizzaHub.csproj|c:\\users\\lesch\\downloads\\pizza-hub\\pizza-hub\\pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|PizzaHub.csproj|solutionrelative:pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|solutionrelative:pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|PizzaHub.csproj|c:\\users\\lesch\\downloads\\pizza-hub\\pizza-hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|PizzaHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA805C2-1F1D-4391-8C66-F607C9C23C79}|Pizza.csproj|solutionrelative:pizzahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaHub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\PizzaHub.cs",
+              "RelativeDocumentMoniker": "PizzaHub.cs",
+              "ToolTip": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\PizzaHub.cs [Design]",
+              "RelativeToolTip": "PizzaHub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:19:58.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:10:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:15:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaHub.cs",
+              "DocumentMoniker": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\PizzaHub.cs",
+              "RelativeDocumentMoniker": "PizzaHub.cs",
+              "ToolTip": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\PizzaHub.cs",
+              "RelativeToolTip": "PizzaHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:14:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaHub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lesch\\Downloads\\Pizza-Hub\\Pizza-Hub\\PizzaHub.cs",
+              "RelativeDocumentMoniker": "PizzaHub.cs",
+              "ToolTip": "C:\\Users\\lesch\\Downloads\\Pizza\\Pizza\\PizzaHub.cs [Design]",
+              "RelativeToolTip": "..\\..\\Pizza\\Pizza\\PizzaHub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:11:44.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

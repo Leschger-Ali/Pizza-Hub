@@ -1,0 +1,11 @@
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\bin\Debug\Pizza.exe.config
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\bin\Debug\Pizza.exe
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\bin\Debug\Pizza.pdb
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\PizzaHub.csproj.AssemblyReference.cache
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\Pizza.exe.config
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\Pizza.PizzaHub.resources
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\PizzaHub.csproj.GenerateResource.cache
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\PizzaHub.csproj.CoreCompileInputs.cache
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\Pizza.exe
+C:\Users\lesch\Downloads\Pizza-Hub\Pizza-Hub\obj\Debug\Pizza.pdb
