@@ -31,12 +31,13 @@
 
 
 ## Notes / Roadmap
-- Persist orders and print receipt
-- Database integration
+- Download receipt as PDF
 - Configurable price list
-- Basic input validation improvements
+- Improvements to basic validation
+
 
 ---
+
 
 ## Kurzbeschreibung (Deutsch)
 
