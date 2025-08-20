@@ -13,7 +13,7 @@
 
 ## Tech Stack
 - **C# .NET — Windows Forms**
-- UI controls: `RadioButton`, `CheckBox`, `TextBox`, `NumericUpDown`, `Label`, `Button`
+- UI controls: `RadioButton`, `CheckBox`, `TextBox`, `Label`, `Button`
 - Simple in-form logic for pricing (base by size + per-topping × quantity)  
 - No backend / No database
 
