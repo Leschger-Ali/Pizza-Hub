@@ -26,7 +26,6 @@
 - Main UI with live total:  
   <img width="1239" height="773" alt="Screenshot 2025-08-20 055054" src="https://github.com/user-attachments/assets/e3e61600-4c84-482c-8c40-0b6b8e2e9f65" />
 
-- (Optional) Initial state:  
   <img width="1238" height="773" alt="image" src="https://github.com/user-attachments/assets/c70335b9-3af1-4937-a340-d8fcc936ab3d" />
 
 
